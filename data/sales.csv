@@ -1,0 +1,13 @@
+date,country,region,product,revenue,material_cost,shipping_cost
+2025-01-10,Germany,Europe,Laptop,50000,28000,4000
+2025-01-15,France,Europe,Phone,40000,22000,3500
+2025-02-05,India,Asia,Laptop,60000,30000,3000
+2025-02-15,Japan,Asia,Phone,55000,29000,4500
+2025-03-10,Germany,Europe,Laptop,45000,27000,5000
+2025-03-20,Italy,Europe,Tablet,42000,25000,4000
+2025-04-10,France,Europe,Phone,48000,29000,5500
+2025-04-18,Spain,Europe,Laptop,52000,31000,6000
+2025-05-05,India,Asia,Tablet,58000,30000,3500
+2025-05-20,China,Asia,Phone,62000,34000,5000
+2025-06-10,Germany,Europe,Laptop,46000,30000,6000
+2025-06-25,France,Europe,Phone,43000,28000,5500
